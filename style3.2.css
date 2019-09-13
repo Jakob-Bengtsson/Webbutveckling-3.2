@@ -1,0 +1,33 @@
+table,td {
+    width: 800px;
+    padding: 80px;
+    margin: auto;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid;
+}
+caption {
+    caption-side: bottom;
+    font-family: "arial";
+    padding: 25px;
+    font-size: 25px;
+}
+.boxblue {
+    background-color: blue;
+}
+.boxred {
+    background-color: red;
+}
+.boxyellow {
+    background-color: yellow;
+}
+.boxblack {
+    background-color: black;
+}
+.boxgreen {
+    background-color: lime;
+}
+.border {
+border: 2px solid black;
+}
